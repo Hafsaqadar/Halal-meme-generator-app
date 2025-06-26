@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1,
+        "image": "/memes/funny/funny1.jpeg",
+        "category": "funny"
+
+    },
+    {
+        "id": 2,
+        "image": "/memes/funny/funny2.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 3,
+        "image": "/memes/funny/funny3.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 4,
+        "image": "/memes/funny/funny4.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 5,
+        "image": "/memes/funny/funny5.jpeg",
+        "category": "funny"
+    },
+   {
+    "id": 6,
+        "image": "/memes/funny/funny6.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 7,
+        "image": "/memes/funny/funny7.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 8,
+        "image": "/memes/funny/funny8.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 9,
+        "image": "/memes/funny/funny9.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 10,
+        "image": "/memes/funny/funny10.jpeg",
+        "category": "funny"
+   },
+   {
+        "id": 11,
+        "image": "/memes/funny/funny11.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 12,
+        "image": "/memes/funny/funny12.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 13,
+        "image": "/memes/funny/funny13.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 14,
+        "image": "/memes/funny/funny14.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 15,
+        "image": "/memes/funny/funny15.jpeg",
+        "category": "funny"
+   },
+   {
+        "id": 16,
+        "image": "/memes/funny/funny16.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 17,
+        "image": "/memes/funny/funny17.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 18,
+        "image": "/memes/funny/funny18.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 19,
+        "image": "/memes/funny/funny19.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 20,
+        "image": "/memes/funny/funny20.jpeg",
+        "category": "funny"
+   },
+   {
+        "id": 21,
+        "image": "/memes/funny/funny21.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 22,
+        "image": "/memes/funny/funny22.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 23,
+        "image": "/memes/funny/funny23.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 24,
+        "image": "/memes/funny/funny24.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 25,
+        "image": "/memes/funny/funny25.jpeg",
+        "category": "funny"
+   },
+    {
+        "id": 26,
+        "image": "/memes/funny/funny26.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 27,
+        "image": "/memes/funny/funny27.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 28,
+        "image": "/memes/funny/funny28.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 29,
+        "image": "/memes/funny/funny29.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 30,
+        "image": "/memes/funny/funny30.jpeg",
+        "category": "funny"
+   },
+    {
+        "id": 31,
+        "image": "/memes/funny/funny31.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 32,
+        "image": "/memes/funny/funny32.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 33,
+        "image": "/memes/funny/funny33.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 34,
+        "image": "/memes/funny/funny34.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 35,
+        "image": "/memes/funny/funny35.jpeg",
+        "category": "funny"
+   },
+    {
+        "id": 36,
+        "image": "/memes/funny/funny36.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 37,
+        "image": "/memes/funny/funny37.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 38,
+        "image": "/memes/funny/funny38.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 39,
+        "image": "/memes/funny/funny39.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 40,
+        "image": "/memes/funny/funny40.jpeg",
+        "category": "funny"
+   }
+    ,
+    {
+        "id": 41,
+        "image": "/memes/funny/funny41.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 42,
+        "image": "/memes/funny/funny42.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 43,
+        "image": "/memes/funny/funny43.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 44,
+        "image": "/memes/funny/funny44.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 45,
+        "image": "/memes/funny/funny45.jpeg",
+        "category": "funny"
+   },
+    {
+        "id": 46,
+        "image": "/memes/funny/funny46.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 47,
+        "image": "/memes/funny/funny47.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 48,
+        "image": "/memes/funny/funny48.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 49,
+        "image": "/memes/funny/funny49.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 50,
+        "image": "/memes/funny/funny50.jpeg",
+        "category": "funny"
+   }
+    ,
+    {
+        "id": 51,
+        "image": "/memes/funny/funny51.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 52,
+        "image": "/memes/funny/funny52.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 53,
+        "image": "/memes/funny/funny53.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 54,
+        "image": "/memes/funny/funny54.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 55,
+        "image": "/memes/funny/funny55.jpeg",
+        "category": "funny"
+   }
+    ,
+    {
+        "id": 56,
+        "image": "/memes/funny/funny56.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 57,
+        "image": "/memes/funny/funny57.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 58,
+        "image": "/memes/funny/funny58.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 59,
+        "image": "/memes/funny/funny59.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 60,
+        "image": "/memes/funny/funny60.jpeg",
+        "category": "funny"
+   }
+    ,
+    {
+        "id": 61,
+        "image": "/memes/funny/funny61.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 62,
+        "image": "/memes/funny/funny62.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 63,
+        "image": "/memes/funny/funny63.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 64,
+        "image": "/memes/funny/funny64.jpeg",
+        "category": "funny"
+    },
+    {
+        "id": 65,
+        "image": "/memes/funny/funny65.jpeg",
+        "category": "funny"
+   }
+]
