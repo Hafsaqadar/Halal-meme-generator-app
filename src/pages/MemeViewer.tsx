@@ -15,7 +15,7 @@ const MemeViewer = () => {
   
   const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = memes[currentMemeIndex].image;
+    link.href = memes[currentMemeIndex].image ?? "";
     link.download = `halal-meme-${category}-${currentMemeIndex + 1}.jpg`;
     link.click();
   };
@@ -27,8 +27,20 @@ const MemeViewer = () => {
 
   return (
     <div className="flex flex-col items-center h-screen p-4 bg-[#b7acf1]">
+
+      {memes[currentMemeIndex].image && (
       <img src={memes[currentMemeIndex].image} alt={`Meme ${currentMemeIndex + 1}`} 
       className="w-[400px] h-[300px] rounded-xl"/>
+      )}
+        {memes[currentMemeIndex].text && (
+
+       <div className="bg-white rounded-2xl p-6 lg:p-10 shadow-md max-w-md mx-auto text-center mt-20">
+      <p className=" text-sm whitespace-pre-line font-semibold text-slate-600">
+        {memes[currentMemeIndex].text}
+      </p>
+      
+    </div>
+    )}
        <div className="flex gap-4 mt-4">
        <button onClick={handleNext} className="bg-[#a2e4ac] mt-5 text-slate-600 font-bold px-4 py-2 rounded-lg">
           Next Meme 🔁
